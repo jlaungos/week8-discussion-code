@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "75080845143",
+    "project_id": "cmsc23-jaungos",
+    "storage_bucket": "cmsc23-jaungos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75080845143:android:ffab88d195c8c268742012",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75080845143-lnqb10lca9s4i536a2ae7k9he8v1en9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TWuk-S2aEUvAqbd2ypjAP2EPqYPSs1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75080845143-lnqb10lca9s4i536a2ae7k9he8v1en9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75080845143-hg9eqb7oe7mm7i3jvmr3tmkberlpvk7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week7NetworkingDiscussion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
